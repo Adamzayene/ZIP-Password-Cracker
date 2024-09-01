@@ -14,7 +14,7 @@ This tool is designed to crack the password of ZIP files using a dictionary atta
 To download the tool, clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/Adamzayene/zip-password-cracker.git
+git clone https://github.com/Adamzayene/ZIP-Password-Cracker.git
 ```
 ### 2.Then navigate to the tool's directory:
 ```bash
